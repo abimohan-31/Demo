@@ -1,0 +1,38 @@
+nav.navebar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+
+}
+div.container{
+    background-color: aqua;
+    box-sizing: border-box;
+    height: 90px;
+}
+
+div.list>a{
+    text-decoration: none;
+    gap: 50px;
+    padding: 0px 40px;
+    font-size: larger;
+}
+
+a.action{
+    background-color: black;
+    color: azure;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+a:hover{
+    background-color: blue;
+    /* transition:( 1 0.2); */
+    padding: 10px;
+    border-radius: 8px;
+    color: azure;
+}
+.search{
+    border-radius: 15px;
+    background-color: none;
+}

@@ -1,0 +1,22 @@
+<ul class="list-one">
+                    <li>&#10003 5 Projects</li>
+                    <li>&#10003 10 GB Storage</li>
+                    <li>&#10003 Basic Support</li>
+                    <li>&#10003 Email Reports</li>
+                </ul>
+
+
+                
+
+        <div id="pro">
+            <h2>Pro Plan</h2>
+            <div class="price-two">$49/mo</div>
+            <ul class="list-two">
+                <li>&#10003; Unlimited Projects</li>
+                <li>&#10003; 100 GB Storage</li>
+                <li>&#10003; Priority Support</li>
+                <li>&#10003; Custom Reports</li>
+            </ul>
+            <button type="submit">Choose Plan</button>
+
+        </div>
